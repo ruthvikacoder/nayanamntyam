@@ -5,7 +5,7 @@ import { Hero } from './components/Hero';
 import { DanceCard } from './components/DanceCard';
 import { Footer } from './components/Footer';
 import { CATEGORIES, getItemsByCategory, getItemById, getRelatedItems } from './services/content';
-// import { CategoryId, DanceItem } from './types';
+import { CategoryId } from './types';
 import { Play } from 'lucide-react';
 
 // --- Page Components Defined Internally to keep structure clean in XML ---
