@@ -65,7 +65,7 @@ This project uses the `public/` folder for static assets.
 - [ ] `mrigashirsha.png`
 - [ ] `simhamukha.png`
 - [ ] `kangula.png`
-- [ ] `alapadma.png`
+- [ ] `alapadma.jpeg`
 - [ ] `chatura.png`
 - [ ] `bhramara.png`
 - [ ] `hamsasya.png`
